@@ -29,16 +29,16 @@ ojdbc6, jcommon-1.0.23, jfreechart-1.0.19<br>
 <h2> 프로젝트 스크린 샷 </h2>
 <details>
 <summary>메인 화면</summary>
-![첫 화면](https://user-images.githubusercontent.com/115913274/209955008-20a15fdd-74b0-4210-802b-d7805e9bdb65.JPG)
+![첫 화면](https://user-images.githubusercontent.com/115913274/209955008-20a15fdd-74b0-4210-802b-d7805e9bdb65.JPG) <br>
 </details>  
 
 <details>
 <summary>키오스크</summary>
-![키오스크](https://user-images.githubusercontent.com/115913274/209955192-725decab-97e6-40a1-9739-cfdf833bb6b6.JPG)<br>
-![옵션](https://user-images.githubusercontent.com/115913274/209955235-ba61d66c-d5f0-4182-a8f7-ad4f31569503.JPG)
-![결제](https://user-images.githubusercontent.com/115913274/209955256-8f37ba12-a818-4f0e-b1f5-2f9ab4f37472.JPG)
-![결제하기](https://user-images.githubusercontent.com/115913274/209955278-9cfa9f64-1224-4af5-ba25-66cd25b1d588.JPG)
-![결제완료](https://user-images.githubusercontent.com/115913274/209955296-d93fa01b-bd0d-4c79-9be2-29b10e39ad5f.JPG)
+![키오스크](https://user-images.githubusercontent.com/115913274/209955192-725decab-97e6-40a1-9739-cfdf833bb6b6.JPG) <br>
+![옵션](https://user-images.githubusercontent.com/115913274/209955235-ba61d66c-d5f0-4182-a8f7-ad4f31569503.JPG) <br>
+![결제](https://user-images.githubusercontent.com/115913274/209955256-8f37ba12-a818-4f0e-b1f5-2f9ab4f37472.JPG) <br>
+![결제하기](https://user-images.githubusercontent.com/115913274/209955278-9cfa9f64-1224-4af5-ba25-66cd25b1d588.JPG) <br>
+![결제완료](https://user-images.githubusercontent.com/115913274/209955296-d93fa01b-bd0d-4c79-9be2-29b10e39ad5f.JPG) <br>
 
  
   
