@@ -30,10 +30,11 @@ ojdbc6, jcommon-1.0.23, jfreechart-1.0.19<br>
 <details>
 <summary>메인 화면</summary>
 <div dir="auto">
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/77534863/130552143-ed417539-f301-4676-a801-4da8b16ce446.jpeg"><img src="https://user-images.githubusercontent.com/77534863/130552143-ed417539-f301-4676-a801-4da8b16ce446.jpeg" alt="main" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow"><img src="![첫 화면](https://user-images.githubusercontent.com/115913274/209954836-04985a80-f439-47ad-82b9-0b0fdb0c81e5.JPG)" alt="main" style="max-width: 100%;"></a></p>
 </div>
 </details>    
 <details>
+
 <summary>가장 빠른 영화</summary>
 <div dir="auto">
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/77534863/130552300-6e5e3df6-cbad-4284-b035-5ab81561cab6.jpeg"><img src="https://user-images.githubusercontent.com/77534863/130552300-6e5e3df6-cbad-4284-b035-5ab81561cab6.jpeg" alt="KakaoTalk_Photo_2021-08-24-12-40-06 012" style="max-width: 100%;"></a></p>
