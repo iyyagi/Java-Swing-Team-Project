@@ -30,7 +30,7 @@ ojdbc6, jcommon-1.0.23, jfreechart-1.0.19<br>
 <details>
 <summary>메인 화면</summary>
 <div dir="auto">
-![첫 화면](https://user-images.githubusercontent.com/115913274/209954836-04985a80-f439-47ad-82b9-0b0fdb0c81e5.JPG)
+![첫 화면](https://user-images.githubusercontent.com/115913274/209955008-20a15fdd-74b0-4210-802b-d7805e9bdb65.JPG)
 </div>
 </details>  
 
