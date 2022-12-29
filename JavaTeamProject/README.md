@@ -27,6 +27,8 @@ ojdbc6, jcommon-1.0.23, jfreechart-1.0.19<br>
 
 
 <h2> 프로젝트 스크린 샷 </h2>
+<details>
 <summary>
   ::marker "메인화면"
 <summary>
+</details>
