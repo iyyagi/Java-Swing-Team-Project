@@ -17,6 +17,7 @@ Oracle 11g XE<br>
 ojdbc6, jcommon-1.0.23, jfreechart-1.0.19<br>
 
 <h2>ER Diagram</h2><br>
+![ER](https://user-images.githubusercontent.com/115913274/209953469-fb46e8f5-fd58-4885-ac35-ec73a65850f7.jpg)
 
 
 
