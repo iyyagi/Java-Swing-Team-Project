@@ -11,13 +11,15 @@ Java Swing <br>
 프로그래밍 언어<br>
 Java version 17.0.5
 
-데이터 베이스
-Oracle 11g XE
+데이터 베이스<br>
+Oracle 11g XE<br>
 외부 라이브러리<br>
-ojdbc6, jcommon-1.0.23, jfreechart-1.0.19
+ojdbc6, jcommon-1.0.23, jfreechart-1.0.19<br>
 
-<h2>ER Diagram</h2>
-![ER](https://user-images.githubusercontent.com/115913274/209953215-8e3e7368-02f5-4562-b813-daf7d4a544b8.jpg)
+<h2>ER Diagram</h2><br>
+![ER](https://user-images.githubusercontent.com/115913274/209953367-360d4d6e-9540-461e-a65d-428457b0d58f.jpg)
+
+
 
 <h2> Usecase Diagram
-![use](https://user-images.githubusercontent.com/115913274/209953245-514655d0-d25f-438d-95eb-77200f8af7a7.jpg)
+
