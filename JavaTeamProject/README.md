@@ -29,7 +29,7 @@ ojdbc6, jcommon-1.0.23, jfreechart-1.0.19<br>
 <h2> 프로젝트 스크린 샷 </h2>
 <details>
 <summary>메인 화면</summary>
-![그림1](https://user-images.githubusercontent.com/115913274/210037880-8781e019-1ddf-4903-8040-b54e6792fd1b.png)
+![그림1](https://user-images.githubusercontent.com/115913274/210037897-81d52102-a799-4ef5-959a-6146ae46a6bd.png)
 
 </details>  
 
