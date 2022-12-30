@@ -29,7 +29,8 @@ ojdbc6, jcommon-1.0.23, jfreechart-1.0.19<br>
 <h2> 프로젝트 스크린 샷 </h2>
 <details>
 <summary>메인 화면</summary>
-![첫 화면](https://user-images.githubusercontent.com/115913274/209955008-20a15fdd-74b0-4210-802b-d7805e9bdb65.JPG) <br>
+![그림1](https://user-images.githubusercontent.com/115913274/210037880-8781e019-1ddf-4903-8040-b54e6792fd1b.png)
+
 </details>  
 
 <details>
@@ -39,9 +40,5 @@ ojdbc6, jcommon-1.0.23, jfreechart-1.0.19<br>
 ![결제](https://user-images.githubusercontent.com/115913274/209955256-8f37ba12-a818-4f0e-b1f5-2f9ab4f37472.JPG) <br>
 ![결제하기](https://user-images.githubusercontent.com/115913274/209955278-9cfa9f64-1224-4af5-ba25-66cd25b1d588.JPG) <br>
 ![결제완료](https://user-images.githubusercontent.com/115913274/209955296-d93fa01b-bd0d-4c79-9be2-29b10e39ad5f.JPG) <br>
-
- 
-  
-
 </details>  
 
