@@ -30,10 +30,10 @@ ojdbc6, jcommon-1.0.23, jfreechart-1.0.19<br>
 <details>
 <summary><b>기능 설명</b></summary>
 <div markdown="1">
+
+### 5.1. 첫 시작 
 ![썸네일](https://user-images.githubusercontent.com/115913274/224521385-8c18030d-b6eb-413a-89dd-e77c77ad8f7d.JPG) <br>
 화면을 마우스로 클릭 하면 메뉴로 이동된다.
-### 5.1. 첫 시작 
-
 
 ### 5.2. 
 
