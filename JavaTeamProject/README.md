@@ -35,7 +35,11 @@ ojdbc6, jcommon-1.0.23, jfreechart-1.0.19<br>
 ![썸네일](https://user-images.githubusercontent.com/115913274/224521385-8c18030d-b6eb-413a-89dd-e77c77ad8f7d.JPG) <br>
 화면을 마우스로 클릭 하면 메뉴로 이동된다.
 
-### 5.2. 
+### 5.2. 메뉴 선택
+![키오스크](https://user-images.githubusercontent.com/115913274/224521414-c2f5162a-6b28-4e3e-8e98-6dd723d8c57d.JPG) <br>
+![옵션](https://user-images.githubusercontent.com/115913274/224521429-ef3a1bb3-93dc-4b18-bb98-5c0d6c45abf5.JPG)
+ 
+메뉴를 선택 및 옵션을 설정하여 결제를 진행한다.
 
 
 ### 5.3. 
