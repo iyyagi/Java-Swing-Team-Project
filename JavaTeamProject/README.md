@@ -40,14 +40,16 @@ ojdbc6, jcommon-1.0.23, jfreechart-1.0.19<br>
 ![옵션](https://user-images.githubusercontent.com/115913274/224521429-ef3a1bb3-93dc-4b18-bb98-5c0d6c45abf5.JPG)
 ![결제하기](https://user-images.githubusercontent.com/115913274/224521461-08f8036d-4b9e-4cac-b6a1-fc918196e6e0.JPG)
 ![결제](https://user-images.githubusercontent.com/115913274/224521450-1e0dc2b8-6af4-45a3-94e4-4750eeba4bfd.JPG)
-![결제완료](https://user-images.githubusercontent.com/115913274/224521474-5dd49e3c-b821-48d9-a39f-b1aa9cf0f721.JPG)
+![결제완료](https://user-images.githubusercontent.com/115913274/224521474-5dd49e3c-b821-48d9-a39f-b1aa9cf0f721.JPG) <br>
 메뉴를 선택 및 옵션을 설정하여 결제를 진행한다.
 
 
 
-### 5.3. 
+### 5.3. 관리자 화면 이동
+![첫 화면](https://user-images.githubusercontent.com/115913274/224521505-0cf32d38-163d-4aff-a38a-76f478b90371.JPG)
+![관리페이지](https://user-images.githubusercontent.com/115913274/224521514-3118e78e-217b-4e91-8c66-831aae249a53.JPG) <br>
 
-
+키오스크 메인화면 홈버튼을 누르면 관리자로 넘어갈 수 있다.
 
 ### 5.4. 
 
