@@ -51,8 +51,12 @@ ojdbc6, jcommon-1.0.23, jfreechart-1.0.19<br>
 
 키오스크 메인화면 홈버튼을 누르면 관리자로 넘어갈 수 있다.
 
-### 5.4. 
+### 5.4. 상품관리
+![상품관리](https://user-images.githubusercontent.com/115913274/224521602-1998635b-3da3-4e05-9f85-be7abec13be1.JPG)
+![수정](https://user-images.githubusercontent.com/115913274/224521605-affd0bf3-49cc-47b6-a604-5c234581f442.JPG)
+![삭제](https://user-images.githubusercontent.com/115913274/224521609-e7a9daac-ede8-4b29-bdee-8e0aac2d785d.JPG) <br>
 
+ 상품 관리에서 키오스크의 메뉴를 추가, 수정, 삭제가 가능하다.
 
  ### 5.5. 
  <br>
