@@ -59,5 +59,6 @@ ojdbc6, jcommon-1.0.23, jfreechart-1.0.19<br>
 
 <br>
 
-## 7. 임의 작성
+## 7. 프로젝트 시연
+![1차 프로젝트 시연](https://user-images.githubusercontent.com/115913274/224521096-1a348960-572c-4e2c-ad65-05d070aeb7d5.gif)
 <br>
