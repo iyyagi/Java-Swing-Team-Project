@@ -71,7 +71,7 @@ ojdbc6, jcommon-1.0.23, jfreechart-1.0.19<br>
  ### 5.7. 매출요약
 ![일별차트](https://user-images.githubusercontent.com/115913274/224524740-1c445868-8361-430a-ab07-89cc3f6d286b.JPG)
 ![월별차트](https://user-images.githubusercontent.com/115913274/224524742-8fe11fa3-0524-4336-9b8f-105f5671df92.JPG)
-![연별차트](https://user-images.githubusercontent.com/115913274/224524744-916a8387-6b7c-4820-a8e0-6091fd9cb1c3.JPG) <
+![연별차트](https://user-images.githubusercontent.com/115913274/224524744-916a8387-6b7c-4820-a8e0-6091fd9cb1c3.JPG) 
 
 판매가 완료된 상품의 경우 매출요약에서 확인이 가능하다 일, 월, 연으로 구분하여 매출 통계를 확인할 수 있다.
  <br>
