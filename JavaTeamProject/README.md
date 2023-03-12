@@ -25,13 +25,14 @@ ojdbc6, jcommon-1.0.23, jfreechart-1.0.19<br>
 
 
 ## 5. 기능
-- 업데이트 하세요
+- 전체적인 UI는 Java Swing으로 구현
 
 <details>
 <summary><b>기능 설명</b></summary>
 <div markdown="1">
-
-### 5.1. 
+![썸네일](https://user-images.githubusercontent.com/115913274/224521363-e7b51349-b095-4cdb-8726-157430020e66.JPG)
+화면을 마우스로 클릭 하면 메뉴로 이동된다.
+### 5.1. 첫 시작 
 
 
 ### 5.2. 
