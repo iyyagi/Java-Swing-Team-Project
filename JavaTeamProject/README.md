@@ -33,7 +33,7 @@ ojdbc6, jcommon-1.0.23, jfreechart-1.0.19<br>
 
 ### 5.1. 첫 시작 
 ![썸네일](https://user-images.githubusercontent.com/115913274/224521385-8c18030d-b6eb-413a-89dd-e77c77ad8f7d.JPG) <br>
-화면을 마우스로 클릭 하면 메뉴로 이동된다.
+화면을 마우스로 클릭 하면 키오스크로 이동된다.
 
 ### 5.2. 메뉴 선택
 ![키오스크](https://user-images.githubusercontent.com/115913274/224521414-c2f5162a-6b28-4e3e-8e98-6dd723d8c57d.JPG) <br>
