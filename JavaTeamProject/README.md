@@ -38,11 +38,16 @@ ojdbc6, jcommon-1.0.23, jfreechart-1.0.19<br>
 ### 5.2. 메뉴 선택
 ![키오스크](https://user-images.githubusercontent.com/115913274/224521414-c2f5162a-6b28-4e3e-8e98-6dd723d8c57d.JPG) <br>
 ![옵션](https://user-images.githubusercontent.com/115913274/224521429-ef3a1bb3-93dc-4b18-bb98-5c0d6c45abf5.JPG)
- 
+![결제하기](https://user-images.githubusercontent.com/115913274/224521461-08f8036d-4b9e-4cac-b6a1-fc918196e6e0.JPG)
+![결제](https://user-images.githubusercontent.com/115913274/224521450-1e0dc2b8-6af4-45a3-94e4-4750eeba4bfd.JPG)
+![결제완료](https://user-images.githubusercontent.com/115913274/224521474-5dd49e3c-b821-48d9-a39f-b1aa9cf0f721.JPG)
 메뉴를 선택 및 옵션을 설정하여 결제를 진행한다.
 
 
+
 ### 5.3. 
+
+
 
 ### 5.4. 
 
