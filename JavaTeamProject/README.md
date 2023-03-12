@@ -4,6 +4,7 @@
 ## 1. 제작 기간 & 참여 인원
 프로젝트 기간 2022.12.05 ~ 2022.12.19 (2주)
 프로젝트 인원 : 6명
+![메인](https://user-images.githubusercontent.com/115913274/224521956-e8c4686d-c237-40bb-8a21-0421a8e03449.JPG)
 
 ## 2. 사용 기술<br>
 Java 17.0.5 <br>
@@ -79,10 +80,11 @@ ojdbc6, jcommon-1.0.23, jfreechart-1.0.19<br>
 
 </br>
 
-## 6. 프로젝트 진행과정
+## 6. 패키지 구성
+![패키지구성](https://user-images.githubusercontent.com/115913274/224521912-bd07ea62-8d27-4461-9142-21203b1740d1.JPG)
 
-<br>
 
 ## 7. 프로젝트 시연
 ![1차 프로젝트 시연](https://user-images.githubusercontent.com/115913274/224521096-1a348960-572c-4e2c-ad65-05d070aeb7d5.gif)
-<br>
+
+## 8. 
