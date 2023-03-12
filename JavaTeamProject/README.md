@@ -1,4 +1,4 @@
-<h1>Cafe Kiosk + POS(Team Project)</h1>
+# :pushpin:Cafe Kiosk + POS(Team Project)
 <hr>
 
 ## 1. 제작 기간 & 참여 인원
