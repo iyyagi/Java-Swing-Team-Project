@@ -4,7 +4,7 @@
 ## 1. 제작 기간 & 참여 인원
 프로젝트 기간 2022.12.05 ~ 2022.12.19 (2주) <br>
 프로젝트 인원 : 6명
-![메인](https://user-images.githubusercontent.com/115913274/224522083-66545b35-2c9e-41b2-b9c2-4a030ac9fc15.JPG)
+![메인](https://user-images.githubusercontent.com/115913274/224522427-48bc68f9-e9b9-4bf0-b6f6-3524d4364b07.JPG)
 
 
 ## 2. 사용 기술<br>
