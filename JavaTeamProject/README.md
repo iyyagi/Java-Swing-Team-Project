@@ -2,9 +2,10 @@
 <hr>
 
 ## 1. 제작 기간 & 참여 인원
-프로젝트 기간 2022.12.05 ~ 2022.12.19 (2주)
+프로젝트 기간 2022.12.05 ~ 2022.12.19 (2주) <
 프로젝트 인원 : 6명
-![메인](https://user-images.githubusercontent.com/115913274/224521956-e8c4686d-c237-40bb-8a21-0421a8e03449.JPG)
+![메인](https://user-images.githubusercontent.com/115913274/224522083-66545b35-2c9e-41b2-b9c2-4a030ac9fc15.JPG)
+
 
 ## 2. 사용 기술<br>
 Java 17.0.5 <br>
