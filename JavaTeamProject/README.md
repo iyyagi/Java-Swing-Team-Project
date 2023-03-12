@@ -58,7 +58,20 @@ ojdbc6, jcommon-1.0.23, jfreechart-1.0.19<br>
 
  상품 관리에서 키오스크의 메뉴를 추가, 수정, 삭제가 가능하다.
 
- ### 5.5. 
+ ### 5.5. 마감
+![마감](https://user-images.githubusercontent.com/115913274/224521672-e9815cb0-0587-4d22-9f40-cd3608122d82.JPG)<br>
+하루 매출의 결과를 확인할 수 있다.
+ 
+ ### 5.6. 영수증 조회
+ ![영수증 조회](https://user-images.githubusercontent.com/115913274/224521801-7127a6cd-c7b5-4a9d-a98f-31d20c35be18.JPG) <br>
+ 판매된 영수증을 조회할 수 있다. 환불을 하게되면 DB에서 삭제가 된다.
+ 
+ ### 5.7. 매출요약
+ 
+![일매출](https://user-images.githubusercontent.com/115913274/224521816-cd703d1f-ccb2-4055-b11a-8ffd0526f1f5.JPG)
+![월매출](https://user-images.githubusercontent.com/115913274/224521820-c8867e69-493c-4d80-804a-ec72fb4c2a8a.JPG)
+![연매출](https://user-images.githubusercontent.com/115913274/224521823-d402ac55-a527-493a-997d-2c806ff56f68.JPG) <br>
+판매가 완료된 상품의 경우 매출요약에서 확인이 가능하다 일, 월, 연으로 구분하여 매출 통계를 확인할 수 있다.
  <br>
 
 </div>
