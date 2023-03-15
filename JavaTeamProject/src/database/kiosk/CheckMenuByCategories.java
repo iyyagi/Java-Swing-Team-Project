@@ -16,8 +16,10 @@ public class CheckMenuByCategories {
 	public CheckMenuByCategories(int categoryNum) {
 		String query = "SELECT * FROM menu WHERE category_number = ?";
 
-		try (Connection conn = OjdbcConnection.getConnection();
-				PreparedStatement pstmt = conn.prepareStatement(query);) {
+		try (
+			Connection conn = OjdbcConnection.getConnection();
+			PreparedStatement pstmt = conn.prepareStatement(query);
+			) {
 
 			pstmt.setInt(1, categoryNum);
 
@@ -45,11 +47,5 @@ public class CheckMenuByCategories {
 	public ArrayList<Integer> getOptionNumber() {
 
 		return menuOptionArr;
-	}
-
-	public static void main(String[] args) {
-		CheckMenuByCategories cc = new CheckMenuByCategories(2);
-		
-		
 	}
 }
