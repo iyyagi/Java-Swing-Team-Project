@@ -15,8 +15,10 @@ public class CheckPhoneNum {
 
 		String query = "SELECT * FROM membership WHERE member_phonenumber = ?";
 
-		try (Connection conn = OjdbcConnection.getConnection();
-				PreparedStatement pstmt = conn.prepareStatement(query);) {
+		try (
+			Connection conn = OjdbcConnection.getConnection();
+			PreparedStatement pstmt = conn.prepareStatement(query);
+			) {
 
 			pstmt.setString(1, phonenumber);
 
@@ -29,7 +31,6 @@ public class CheckPhoneNum {
 		} catch (SQLException e) {
 			e.printStackTrace();
 		}
-
 	}
 
 	public boolean check() {
