@@ -23,8 +23,10 @@ public class GetImageInfo {
 	public GetImageInfo(String menu) {
 		String query = "SELECT * FROM menu WHERE menu_name = ?";
 
-		try (Connection conn = OjdbcConnection.getConnection();
-				PreparedStatement pstmt = conn.prepareStatement(query);) {
+		try (
+			Connection conn = OjdbcConnection.getConnection();
+			PreparedStatement pstmt = conn.prepareStatement(query);
+			) {
 
 			pstmt.setString(1, menu);
 
@@ -73,10 +75,4 @@ public class GetImageInfo {
 	public Integer getMenuNum() {
 		return menuNum;
 	}
-
-	public static void main(String[] args) {
-		GetImageInfo gi = new GetImageInfo("초콜릿 쿠키 젤라또 프라페");
-		System.out.println(gi.getMenuNum());
-	}
-	
 }
