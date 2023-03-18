@@ -65,7 +65,7 @@ ojdbc6, jcommon-1.0.23, jfreechart-1.0.19<br>
 하루 매출의 결과를 확인할 수 있다.
  
  ### 5.6. 영수증 조회
- ![영수증 조회](https://user-images.githubusercontent.com/115913274/224521801-7127a6cd-c7b5-4a9d-a98f-31d20c35be18.JPG) <br>
+ ![영수증 조회](https://user-images.githubusercontent.com/115913274/226085295-4b272b3f-15f3-4619-bce4-6b40246fab52.JPG) <br>
  판매된 영수증을 조회할 수 있다. 환불을 하게되면 DB에서 삭제가 된다.
  
  ### 5.7. 매출요약
